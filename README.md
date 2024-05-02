@@ -1,7 +1,7 @@
 # Movie-Recommendation system
 
 # INTRODUCTION
-Movie recommender systems are widely used to provide personalized recommendations to users based on their preferences.To analyze text data related to movies and users by using machine learning algorithms to recommend movies to consumers.
+Movie recommender systems are widely used to provide personalized recommendations to users based on their preferences,after choosing one film the user can suggest five more that are comparable.To analyze text data related to movies and users by using machine learning algorithms to recommend movies to consumers.
 
 # APPROACH
 
